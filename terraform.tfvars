@@ -1,0 +1,6 @@
+region = "us-central1"
+region_zone = "us-central1-c"
+project_name = "noted-branch-166112"
+account_file_path = "~/.gcloud/account.json"
+public_key_path = "~/.ssh/my-ssh-key.pub"
+private_key_path = "~/.ssh/my-ssh-key"
